@@ -33,9 +33,32 @@
 "32","Deceit","Maligner","5","Ability","Unlock Ritual Framing, Allows opponents to be framed for a Masked Ritual.","7","0","0","16"
 "33","Deceit","Great Deceiver","6","Ritual","Convert Legion, Gains the fickle loyalty of target Legion, and transports it safely back to your territory.","8","0","0","17"
 "34","Deceit","Great Deceiver","6","Ritual","Loot The Vaults 3, Carefully removes 4-6 random, unallocated Tribute tokens from the target's Vault and spirits them back to yours.","8","0","0","17"
-"35",,,,,,,"0","0",
-"36",,,,,,,"0","0",
-"37",,,,,,,"0","0",
-"38",,,,,,,"0","0",
-"39",,,,,,,"0","0",
-"40",,,,,,,"0","0",
+"35","Prophecy","Diviner","1","Ritual","Dark Augury 1, Darkly reveals the target Archfiend's weakest Powers.","1","0","2","2"
+"36","Prophecy","Diviner","1","Ritual","Evil Ward 1, Profane symbols temporarily increases your Destruction Resistance by 2 and grants you 5-7 Prestige when you resist a Destruction Ritual.","1","0","2","2"
+"37","Prophecy","Diviner","1","Ability","Scrying Bowl, Peer into the scrying bowl to glean your chances of success when attempting to perform a ritual against another player","1","0","2","2"
+"38","Prophecy","Diviner","1","Schemes","Simple Prophecy Schemes, Unlocks access to simple prophecy schems when requesting new schemes","1","0","2","2"
+"39","Prophecy","Seer","2","Ritual","Expose Treason 1, Temporarily increases your Deceit Resistance by 2 and grants you 5-7 Prestige when you resist a Deceit Ritual, as dead spies decorate the walls of your House.","2","0","3","2"
+"40","Prophecy","Seer","2","Ritual","Dark Augury 2, Darkly reveals the target Archfiend's weakest Powers and the contents of their Vault.","2","0","3","2"
+"41","Prophecy","Seer","2","Ability","The Walls Have Ears, Reveals who bid on every item sold at the Bazaar, and who won.","2","0","3","2"
+"42","Prophecy","Seer","2","Bonus","Ritual Slots +1, 1 more Ritual can be performed each turn.","2","0","3","2"
+"43","Prophecy","Seer","2","Bonus","Simple Scheme Choices +1, 1 more Simple Scheme is drawn when plotting.","2","0","3","2"
+"44","Prophecy","Prescient","3","Ritual","Evil Ward 2, Profane symbols temporarily increase youre Destruction Resistance by 4 and grant you 7-9 Prestige when you resist a Destruction Ritual.","3","0","4","4"
+"45","Prophecy","Prescient","3","Ritual","Dark Augury 3, Darkly reveals the target Archfiend's all but strongest Powers, the contents of their Vault, and their Events.","3","0","4","4"
+"46","Prophecy","Prescient","3","Ability","Conclave Informants, The terms of rivals' Vendettas are revealed, including their choice of Praetor.","3","0","4","4"
+"47","Prophecy","Prescient","3","Bonus","Event Choices +1, 1 more Event is drawn as Regent.","3","0","4","4"
+"48","Prophecy","Prescient","3","Bonus","Scheme Slots +1, 1 more Scheme can be held at once.","3","0","4","4"
+"49","Prophecy","Master of Fates","4","Ritual","Repeal Fate 1, By untangling the strands you may discard your own active Scheme.","6","0","9","9"
+"50","Prophecy","Master of Fates","4","Ritual","Dark Augury 4, Darkly reveals the target Archfiend's all but strongest Powers, the contents of their Vault, their Events, and their Ritual Table.","6","0","9","9"
+"51","Prophecy","Master of Fates","4","Schemes","Grand Prophecy Schemes, Unlocks access to grand prophecy schemes when requesting new Schemes","6","0","9","9"
+"52","Prophecy","Master of Fates","4","Bonus","Order Slots +1, 1 more Order can be issued each turn.","6","0","9","9"
+"53","Prophecy","Master of Fates","4","Bonus","Ritual Slots +1, 1 more Ritual can be performed each turn.","6","0","9","9"
+"54","Prophecy","Sorcerer","5","Ritual","Maelediction Of The Seer, A namless curse hangs over the target opponent, temporarily preventing them from becoming Regent or playing Events.","7","0","10","10"
+"55","Prophecy","Sorcerer","5","Ritual","Expose Treason 2, Temporarily increases your Deceit Resistance by 4 and grantes you 7-9 Prestige when you resist a Deceit Ritual, as dead spies decorate the walls of your house.","7","0","10","10"
+"56","Prophecy","Sorcerer","5","Ritual","Dark Augury V, Darkly reveals all of the target Archfiend's Powers, the contents of their Vault, their Events, their Ritual Table, and their private Schemes.","7","0","10","10"
+"57","Prophecy","Sorcerer","5","Bonus","Ritual Slots +1, 1 more Ritual can be performed each turn.","7","0","10","10"
+"58","Prophecy","Sorcerer","5","Bonus","Grand Scheme Choices +1, 1 more Grand Scheme is drawn when plotting.","7","0","10","10"
+"59","Prophecy","Great Prophet","6","Ritual","Demonic Interference, The target's Ritual table is shattered: ongoing Rituals are cancelled and Artifacts are returned to the Vault. While the effect lasts, they cannot put new Rituals or Artifacts of Sorcery into play.","8","0","11","11"
+"60","Prophecy","Great Prophet","6","Ritual","Repeal Fat 2, By cutting the knots you may discard your own active Scheme, or one of your opponents'.","8","0","11","11"
+"61","Prophecy","Great Prophet","6","Ritual","Dark Augury 6, Darkly reveals all of the target Archfiend's Powers, the contents of their Vault, their Events, their Ritual Table, their private Schemes, and their Relics.","8","0","11","11"
+"62","Prophecy","Great Prophet","6","Bonus","Ritual Slots +1, 1 more Ritual can be performed each turn.","8","0","11","11"
+"63","Prophecy","Great Prophet","6","Bonus","Event Slots +1, 1 more Event can be held at once.","8","0","11","11"
