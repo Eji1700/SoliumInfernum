@@ -19,3 +19,23 @@
 "18","Wrath","Grand Dictator","6","Stratagems","Phase SKip Tactics, Unlocks Stratagem Tactics that force the specified Combat phase to be skipped entirely.","8","17","0","0"
 "19","Wrath","Grand Dictator","6","Bonus","Command Rating +1, 1 more Legion can be controlled.","8","17","0","0"
 "20","Wrath","Grand Dictator","6","Bonus","Stratagem Slots +1, 1 more Tactic can be added to Stratagems.","8","17","0","0"
+"21","Deceit","Hypocrite","1","Ritual","Strategic Confusion, Befuddles the target, preventing it from moving for the rest of the turn. This has no effect if they have already moved.","1","0","0","3"
+"22","Deceit","Hypocrite","1","Schemes","Simple Deceit Schemes, Unlocks access to simple deceit schemes when requesting new schemes.","1","0","0","3"
+"23","Deceit","Scoundrel","2","Ritual","Loot the Vaults 1, Carefully removes 2-4 random, unallocated Tribute tokens from the target's Vault and spirits them back to yours.","2","0","0","5"
+"24","Deceit","Fraud","3","Ritual","Forged Orders, The target's orders are replaced with a subtle forgery of your choosing. This has no effect if they have already moved.","3","0","0","7"
+"25","Deceit","Fraud","3","Ability","Unlock Masking Mirror, Allows Rituals to be performed in secret, without needing a Vendetta.","3","0","0","7"
+"26","Deceit","Master Of Lies","4","Ritual","Pilfer Artifact, Light-fingered demons lift target Artifact from its owner and move it to your vault.","6","0","0","15"
+"27","Deceit","Master Of Lies","4","Ritual","Loot the Vaults 2, Carefully removes 3-5 random, unallocated Tribute tokens from the target's Vault and spirits them back to yours.","6","0","0","15"
+"28","Deceit","Master Of Lies","4","Schemes","Grand Deceit Schemes, Unlcoks access to grand deceit schemes when requesting new schemes.","6","0","0","15"
+"29","Deceit","Master Of Lies","4","Bonus","Order Slots +1, 1 more Order can be issued each turn.","6","0","0","15"
+"30","Deceit","Maligner","5","Ritual","Bribe Praetor, The target Praetor recieves a more attractive offer, abandons its owner, and moves to your Vault.","7","0","0","16"
+"31","Deceit","Maligner","5","Ritual","Border Bueraucracy, A misplaced stamp reassigns a target border Canton to an Archfiend of your choice.","7","0","0","16"
+"32","Deceit","Maligner","5","Ability","Unlock Ritual Framing, Allows opponents to be framed for a Masked Ritual.","7","0","0","16"
+"33","Deceit","Great Deceiver","6","Ritual","Convert Legion, Gains the fickle loyalty of target Legion, and transports it safely back to your territory.","8","0","0","17"
+"34","Deceit","Great Deceiver","6","Ritual","Loot The Vaults 3, Carefully removes 4-6 random, unallocated Tribute tokens from the target's Vault and spirits them back to yours.","8","0","0","17"
+"35",,,,,,,"0","0",
+"36",,,,,,,"0","0",
+"37",,,,,,,"0","0",
+"38",,,,,,,"0","0",
+"39",,,,,,,"0","0",
+"40",,,,,,,"0","0",
