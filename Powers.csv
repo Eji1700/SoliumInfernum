@@ -78,24 +78,22 @@
 "77","Destruction","Destroyer","5","Ritual","Enfeeble 3, Saps the target's will, temporarily reducing 2 of their attributes by 4-6.","7","0","16","0"
 "78","Destruction","Planar Lock","6","Ritual","Planar Lock, Constricts reality itself to hold the target Archfiend fast: while the effect lasts, they may issue 3 fewer Orders per turn, down to a minimum of 1.","8","0","17","0"
 "79","Destruction","Planar Lock","6","Ritual","Infernal Afflication 3, Ravages the target with a blast of Hellish energy, dealing 7-9 damage.","8","0","17","0"
-"80",,,,,,,,,
-"81",,,,,,,,,
-"82",,,,,,,,,
-"83",,,,,,,,,
-"84",,,,,,,,,
-"85",,,,,,,,,
-"86",,,,,,,,,
-"87",,,,,,,,,
-"88",,,,,,,,,
-"89",,,,,,,,,
-"90",,,,,,,,,
-"91",,,,,,,,,
-"92",,,,,,,,,
-"93",,,,,,,,,
-"94",,,,,,,,,
-"95",,,,,,,,,
-"96",,,,,,,,,
-"97",,,,,,,,,
-"98",,,,,,,,,
-"99",,,,,,,,,
-"100",,,,,,,,,
+"80","Charisma","Bully","1","Ritual","Elocution 1, An enscelled Conclave temporarily grants you 1 additional Vote. In addition, whenever one opponent targets another with a Demand, Insult, or Declaration, you gain 3-5 Prestige.","2","1","1","1"
+"81","Charisma","Bully","1","Ability","Arena Bribery, Allows bribes to be sent to the arena arbiter to influence the result of your praetor duels.","2","1","1","1"
+"82","Charisma","Bully","1","Schemes","Simple Charisma Schemes, Unlocks access to simple charisma schemes when requesting new schemes","2","1","1","1"
+"83","Charisma","Demander","2","Ritual","Infernal Negotiations 1, You inspire blatant favouritism: while the effect lasts, your Demands cost 3 less Prestige, while opponents' Demands against you cost 5 more.","3","2","2","2"
+"84","Charisma","Demander","2","Ritual","Seek Manuscripts, Order your minions to present you with an array of Manuscript fragments to choose from next turn. Do so earlier in the turn to increase the odds that these fragments will complete your partial Manuscripts.","3","2","2","2"
+"85","Charisma","Apostate","3","Ritual","Convert Tribute, Transmutes assorted Tribute to receive Tokens of a chosen type, 1 for every 2 consumed, with half the total value consumed.","4","3","3","3"
+"86","Charisma","Apostate","3","Ability","Early Access, An additional item of each t ype is displayed at the Bazaar.","4","3","3","3"
+"87","Charisma","Apostate","3","Ritual","Elocution 2, An enscelled Conclave temporarily grants you 2 additional Votes. In addition, whenever one opponent targets another with a Demand, Insult, or Declaration, you gain 4-6 Prestige.","4","3","3","3"
+"88","Charisma","Apostate","3","Bonus","Manuscript Draw +1, When seeking Manuscripts, 1 more fragment is drawn. This does not affect how many can be kept.","4","3","3","3"
+"89","Charisma","Master of Tyrants","4","Ritual","Procured Honour, Your trophies gleam wickedly: Places of Power you control temporarily generate an additional 1-3 Prestige per turn.","7","6","6","6"
+"90","Charisma","Master of Tyrants","4","Ritual","Infernal Negotiations 2, You inspire blatant favouritism: while the effect lasts, your Demands cost 4 less Prestige, while opponents' Demands against you cost 6 more.","7","6","6","6"
+"91","Charisma","Master of Tyrants","4","Ability","The Flesh Obeys, When invoking Manuscripts, allows Praetors to replace known dueling techniques of any type, not just the matching type.","7","6","6","6"
+"92","Charisma","Master of Tyrants","4","Schemes","Grand Charisma Schemes, Unlocks access to grand charisma schemes when requesting new schemes.","7","6","6","6"
+"93","Charisma","Master of Tyrants","4","Bonus","Order Slots +1, 1 more Order can be issued each turn.","7","6","6","6"
+"94","Charisma","Castigator","5","Ritual","Demand of Supplication, Your minions enter a rapacious fervour, temporarily raising your Tribute Quality by 2.",,,,
+"95","Charisma","Castigator","5","Ritual","Elocution 3, An enscelled Conclave temporarily grants you 3 additional Votes. In addition, whenever one opponent targets another with a Demand, Insult, or Declaration, you gain 5-7 Prestige.",,,,
+"96","Charisma","Great Blasphemer","6","Ritual","Burnt Offerings, Your ostentatious sacrifice delights The Conclave: in a puff of acrid smoke, your Prestige increases by 9-11","9","8","8","8"
+"97","Charisma","Great Blasphemer","6","Ritual","Infernal Negotiations 3, You inspire blatant favouritism: while the effect lasts, your Demands cost 5 less Prestige, while opponents' Demands against you cost 7 more.","9","8","8","8"
+"98","Charisma","Great Blasphemer","6","Bonus","Manuscript Keep +1, When seeking Manuscripts, 1 more fragment can be kept.","9","8","8","8"
