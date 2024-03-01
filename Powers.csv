@@ -62,3 +62,40 @@
 "61","Prophecy","Great Prophet","6","Ritual","Dark Augury 6, Darkly reveals all of the target Archfiend's Powers, the contents of their Vault, their Events, their Ritual Table, their private Schemes, and their Relics.","8","0","11","11"
 "62","Prophecy","Great Prophet","6","Bonus","Ritual Slots +1, 1 more Ritual can be performed each turn.","8","0","11","11"
 "63","Prophecy","Great Prophet","6","Bonus","Event Slots +1, 1 more Event can be held at once.","8","0","11","11"
+"64","Destruction","Hedge Wizard","1","Ritual","Enfeeble 1, Saps the target's will, temporarily reducing 1 of their attributes by 2-4.","1","0","3","0"
+"65","Destruction","Hedge Wizard","1","Schemes","Simple Destruction Schemes, Unlocks access to simple destruction schemes when requesting new schemes.","1","0","3","0"
+"66","Destruction","Conjurer","2","Ritual","Infernal Affliction 1, Ravages the target with a blast of hellish energy, dealing 3-5 damage.","2","0","5","0"
+"67","Destruction","Conjurer","2","Ritual","Corrupt Tribute 1, 3-5 random tokens in the target's Vault rot before their eyes.","2","0","5","0"
+"68","Destruction","Magus","3","Ritual","Raise Abyss Strider, Summons a shrieking Abyss Strider(level 3) on the target canton. You do not control its movements.","3","0","7","0"
+"69","Destruction","Magus","3","Ritual","Enfeeble 2, Saps the target's will, temporarily reducting 1 of their attributes by 3-5.","3","0","7","0"
+"70","Destruction","Master of Doom","4","Ritual","Pain and Punishment, Wracks the target, destroying its Stratagems and returning any attached Artifacts of War and Praetors to its owner's Vault.","6","0","15","0"
+"71","Destruction","Master of Doom","4","Ritual","Infernal Affliction 2, Ravages the target with a blast of Hellish energy, dealing 5-7 damage.","6","0","15","0"
+"72","Destruction","Master of Doom","4","Scheme","Grand Destruction Schemes, Unlocks access to grand destruction schemes when requesting new schemes.","6","0","15","0"
+"73","Destruction","Master of Doom","4","Bonus","Order Slots +1, 1 more Order can be issued each turn.","6","0","15","0"
+"74","Destruction","Destroyer","5","Ritual","Dire Dissipation, Shreds the target from the inside, dealing 4-8 damage and reducing its Maximum HP by the same amount","7","0","16","0"
+"75","Destruction","Destroyer","5","Ritual","Banish Praetor, Casts a target Praetor out of Hell and into the darkest abyss, never to return.","7","0","16","0"
+"76","Destruction","Destroyer","5","Ritual","Corrupt Tribute 2, 5-7 random tokens in the target's Vault rot before their eyes.","7","0","16","0"
+"77","Destruction","Destroyer","5","Ritual","Enfeeble 3, Saps the target's will, temporarily reducing 2 of their attributes by 4-6.","7","0","16","0"
+"78","Destruction","Planar Lock","6","Ritual","Planar Lock, Constricts reality itself to hold the target Archfiend fast: while the effect lasts, they may issue 3 fewer Orders per turn, down to a minimum of 1.","8","0","17","0"
+"79","Destruction","Planar Lock","6","Ritual","Infernal Afflication 3, Ravages the target with a blast of Hellish energy, dealing 7-9 damage.","8","0","17","0"
+"80",,,,,,,,,
+"81",,,,,,,,,
+"82",,,,,,,,,
+"83",,,,,,,,,
+"84",,,,,,,,,
+"85",,,,,,,,,
+"86",,,,,,,,,
+"87",,,,,,,,,
+"88",,,,,,,,,
+"89",,,,,,,,,
+"90",,,,,,,,,
+"91",,,,,,,,,
+"92",,,,,,,,,
+"93",,,,,,,,,
+"94",,,,,,,,,
+"95",,,,,,,,,
+"96",,,,,,,,,
+"97",,,,,,,,,
+"98",,,,,,,,,
+"99",,,,,,,,,
+"100",,,,,,,,,
